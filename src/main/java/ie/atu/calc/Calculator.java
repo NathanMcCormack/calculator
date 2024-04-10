@@ -7,4 +7,7 @@ public class Calculator {
         return (first + second);
     }
 
+    public int multiply(int first, int second){
+        return (first * second);
+    }
 }
